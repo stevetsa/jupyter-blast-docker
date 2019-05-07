@@ -53,7 +53,7 @@ ADD fix-permissions /usr/local/bin/fix-permissions
 # Create jovyan user with UID=1000 and in the 'users' group
 # and make sure these dirs are writable by the `users` group.
 ###
-RUN chmod +x fix-permissions
+RUN chmod +x /usr/local/bin/fix-permissions
 ###
 
 RUN useradd -m -s /bin/bash -N -u $NB_UID $NB_USER && \
