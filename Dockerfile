@@ -123,6 +123,7 @@ USER root
 ###
 RUN conda install -c bioconda blast
 RUN conda install -c bioconda entrez-direct
+RUN git clone https://github.com/stevetsa/jupyter-blast-docker.git
 ###
 
 EXPOSE 8888
