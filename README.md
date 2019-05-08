@@ -10,6 +10,6 @@ Please visit the documentation site for help using and contributing to this imag
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker.git/master)
 
 Tools installed using Anaconda - 
-BLAST(https://anaconda.org/bioconda/blast)
+BLAST(https://anaconda.org/bioconda/blast) .   
 Entrez-direct (https://anaconda.org/bioconda/entrez-direct)
 
