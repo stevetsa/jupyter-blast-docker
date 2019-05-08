@@ -16,4 +16,4 @@ To run Jupyter Notebook, click
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker/master)
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker/master?filepath=jupyter-docker-blast.ipynb)
