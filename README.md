@@ -12,4 +12,4 @@ Please visit the documentation site for help using and contributing to this imag
     - Entrez-direct (https://anaconda.org/bioconda/entrez-direct)
 
 To run Jupyter Notebook, click 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker/master?urlpath=https%3A%2F%2Fgithub.com%2Fstevetsa%2Fjupyter-blast-docker%2Fblob%2Fmaster%2Fjupyter-docker-blast.ipynb)
