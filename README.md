@@ -12,8 +12,5 @@ Please visit the documentation site for help using and contributing to this imag
     - Entrez-direct (https://anaconda.org/bioconda/entrez-direct)
 
 To run Jupyter Notebook, click 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker/master?filepath=%2Fnotebooks_en%2Fjupyter-docker-blast.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker/master), then click on the notebook with the extension ".ipynb" (IPYthon NoteBook).  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker/master)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker/master?filepath=jupyter-docker-blast.ipynb)
