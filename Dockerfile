@@ -122,6 +122,7 @@ USER root
 
 ###
 RUN conda install -c bioconda blast
+RUN conda install -c bioconda entrez-direct
 ###
 
 EXPOSE 8888
