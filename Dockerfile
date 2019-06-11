@@ -121,8 +121,11 @@ RUN conda install --quiet --yes \
 USER root
 
 ###
-RUN conda install -c bioconda blast
+#RUN conda install -c bioconda blast
+#RUN conda install -c bioconda entrez-direct
+RUN conda install -c bioconda blast=2.9.0-0
 RUN conda install -c bioconda entrez-direct
+
 RUN git clone https://github.com/stevetsa/jupyter-blast-docker.git
 ###
 
