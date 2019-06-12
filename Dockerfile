@@ -28,6 +28,7 @@ RUN apt-get update && apt-get -yq dist-upgrade \
     nano \
     wget \
     git \
+    unzip \
     ##
  && rm -rf /var/lib/apt/lists/*
 
@@ -125,6 +126,7 @@ USER root
 #RUN conda install -c bioconda entrez-direct
 RUN conda install -c bioconda blast=2.9.0-0
 RUN conda install -c bioconda entrez-direct
+
 
 RUN git clone https://github.com/stevetsa/jupyter-blast-docker.git
 ###
